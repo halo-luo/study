@@ -9,13 +9,13 @@ public class LoginForm {
 	}
 	
 	void display(){
-		System.out.println("display方法！");
+		System.out.println("调用display方法！");
 	}
 	
 	void validate(){
 		
 		dao.findUser("username", "userPassword");
-		System.out.println("validate方法！");
+		System.out.println("调用validate方法！");
 		
 	}
 	
