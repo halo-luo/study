@@ -3,7 +3,7 @@ package demo01;
 public class DBUtil {
 	void getConnection() {
 		
-		System.out.println("Êı¾İ¿âÁ¬½Ó³É¹¦£¡");
+		System.out.println("æ•°æ®åº“è¿æ¥æˆåŠŸ");
 		
 	}
 }
